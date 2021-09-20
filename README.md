@@ -15,4 +15,4 @@ Below is an image of the search criteria that can be used on the webpage.
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 
-https://github.com/Klubbers0/UFOs/blob/35d8d2e3e5d0a58fcf49b7ac7b06c0d55e3db6a2/static/images/search%20criteria.PNG
+
