@@ -3,7 +3,7 @@ Using Javascript, bootstrap to make a UFO sightings page
 
 ## Overview of Project 
 The purpose of this analysis was to create a webpage with Javascript that allows the user to filter through and search for UFO sightings. Bootstrap was used to style the page and add in the image of space
-![pic3](https://github.com/Klubbers0/UFOs/blob/1dd55a3f587a612aeb285aeea73572fb0df8a3bc/static/images/results.PNG)
+![pic3](https://github.com/Klubbers0/UFOs/blob/babf1823afbc1de6cbc2dd7e02cb5801027340ca/static/images/header.PNG)
 
 ## Results
 
