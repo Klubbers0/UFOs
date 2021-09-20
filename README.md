@@ -11,8 +11,9 @@ This webpage can be used to search for ufo sightings by using and manipulating f
 Below is an image of the search criteria that can be used on the webpage. 
 ![pic1](https://github.com/Klubbers0/UFOs/blob/35d8d2e3e5d0a58fcf49b7ac7b06c0d55e3db6a2/static/images/search%20criteria.PNG)
 
+
 Example of some of the results from the search. 
-![pic1](https://github.com/Klubbers0/UFOs/blob/35d8d2e3e5d0a58fcf49b7ac7b06c0d55e3db6a2/static/images/search%20criteria.PNG)
+![pic2](https://github.com/Klubbers0/UFOs/blob/1dd55a3f587a612aeb285aeea73572fb0df8a3bc/static/images/results.PNG)
 
 : Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
